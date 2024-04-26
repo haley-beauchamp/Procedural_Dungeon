@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Imported_Assets/Blackthornprod/100 Fantasy Characters Pack/Scenes/Demo.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/Basement_Rooms/Basement_Empty.unity
+    guid: 527b33a844c6b4f3489c87d8cad39264
+  - enabled: 0
+    path: Assets/Scenes/Basement_Rooms/Basement_Start.unity
+    guid: 7eb1281cdef9b402c84fd51de651fdff
+  - enabled: 0
+    path: Assets/Scenes/Basement_Rooms/Basement_L.unity
+    guid: 781b271931ffd426d83c1b430a606369
+  - enabled: 0
+    path: "Assets/Scenes/Basement_Rooms/Basement_\u0393.unity"
+    guid: 0841856e056c04e638d851c64b18fe0e
+  - enabled: 0
+    path: "Assets/Scenes/Basement_Rooms/Basement_\u2142.unity"
+    guid: 2da53422246ff422ca7381287618280c
+  - enabled: 0
+    path: "Assets/Scenes/Basement_Rooms/Basement_\u2143.unity"
+    guid: be5a33d4dbec54bc582e144f64eec8e7
+  - enabled: 0
+    path: Assets/Scenes/Basement_Rooms/Basement_Shop.unity
+    guid: 5f4ef3f83af504a988a4b731556dca1d
+  - enabled: 0
+    path: Assets/Scenes/Basement_Rooms/Basement_Boss.unity
+    guid: a362c2678219d4be787e52f62406806b
+  - enabled: 1
+    path: Assets/Scenes/Basement.unity
+    guid: a6b2abdaea3fd4697977752291a538fa
+  m_configObjects: {}
